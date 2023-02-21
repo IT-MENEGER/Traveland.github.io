@@ -102,6 +102,7 @@ main .m2 .m1 img {
 
 main .m2 .m1:hover {
     box-shadow: 0px 6px 35px rgba(0, 0, 0, 0.08);
+    color: red;
     transition: 1s;
 }
 
